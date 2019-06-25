@@ -1,0 +1,26 @@
+/*****TAG*****/
+body {
+  background-color: #ffd19a;
+}
+
+h1 {
+  color: #ff6337;
+}
+
+h2 {
+  color: #ffa323;
+}
+
+h3 {
+
+  color: #ff8246;
+}
+
+/*****CLASS*****/
+.circular {
+  border-radius: 100%;
+}
+
+.profile-img {
+  width: 200px;
+}
